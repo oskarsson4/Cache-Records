@@ -99,7 +99,7 @@ header nav a:active{
 
 /*En bakgrundsbild för hela framsidan*/
 .background{
-    background-image: url("/img/pexels-photo-1105666.JPEG");
+    background-image: url("/img/pexels-photo-1105666.jpeg");
     background-size: contain;
     background-size: cover;
     background-repeat: no-repeat;
